@@ -1,6 +1,5 @@
 import "./App.css";
-import React from 'react';
-import {useRoutes} from 'hookrouter';
+import { useRoutes } from 'hookrouter';
 import routes from "./routes";
 
 function App() {
